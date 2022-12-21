@@ -1,4 +1,4 @@
 print("hello Git")
 print("hello")
-Print("new message")
-Print("Final Message")
+print("new message")
+print("Final Message")
